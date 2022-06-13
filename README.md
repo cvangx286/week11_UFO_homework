@@ -6,6 +6,8 @@ Purpose of the project is to create a wepage that houses UFO sighting data that 
 
 # Results: 
 The website has a tool for users to search using multiple criteria. The user will utilize the search bars to the left of the webpage and input the criteria. 
+
+
 ![search_bar_image.png](search_bar_image.png)
 
 If the user is looking for UFO sightings for specific date, for example 1/10/2010, they can enter a date and the results would display to the right of the search bars. 
